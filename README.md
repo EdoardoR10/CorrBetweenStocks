@@ -1,2 +1,2 @@
 # CorrBetweenStocks
-Some quick code regarding data exploration
+Creating and visualizing a correlation matrix between stocks price data pulled from yahoo finance 
